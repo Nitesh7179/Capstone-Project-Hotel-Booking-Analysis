@@ -1,4 +1,7 @@
 # Capstone Project Hotel Booking Analysis
+# Tableau Link:-
+https://public.tableau.com/app/profile/nitesh.bhowmick/viz/HotelBookingAnalysis_16718993817000/Dashboard1?publish=yes
+
 # Objective
 We are provided with a hotel bookings dataset.
 Out main objective is perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other.
